@@ -1,2 +1,2 @@
-# GRIP_Tasks_Data_Science_Business_Analytics
+# GRIP Tasks for the Data Science & Business Analytics Given by The Sparks Foundation  
  
